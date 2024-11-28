@@ -87,4 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**GitHub Repository:** [https://github.com/Sasanka14/AES-Encryption-and-Decryption](https://github.com/Sasanka14/AES-Encryption-and-Decryption)
+**GitHub Repository:** [https://github.com/Sasanka14/AES-Encryption-and-Decryption](https://github.com/Sasanka14/Encription-Decription.git)
