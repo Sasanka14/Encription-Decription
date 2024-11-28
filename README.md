@@ -74,6 +74,8 @@ Received message: Hello, server!
 
 ### Benchmark Plot:
 A plot showing the encryption and decryption times for different message sizes will be displayed after the server finishes processing.
+![image](https://github.com/user-attachments/assets/8449c953-f931-4d13-b286-43984279d7a5)
+
 
 ## Contributing
 
