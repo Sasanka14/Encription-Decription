@@ -1,0 +1,2 @@
+# Encription&Decription
+ ### Encryption & Decryption: A Secure Communication System  This project implements **AES encryption** to secure messages between a client and a server. Using **Python** and the **PyCryptodome** library, it encrypts and decrypts messages in **CBC mode**. The system also includes performance benchmarking for encryption and decryption times.  ### Technologies Used: - **Python 3.x** - **PyCryptodome** (AES Encryption) - **Matplotlib** (Benchmarking) - **Sockets** (Client-Server Communication)  This project showcases AES for secure data transmission.
